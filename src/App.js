@@ -5,6 +5,8 @@ import Home from './components/Home';
 import Manual from './components/Manual';
 import Play from './components/Play';
 
+//this is a comment
+//addded to demonstrate the github
 function App() {
   return (
     <div className="App">
